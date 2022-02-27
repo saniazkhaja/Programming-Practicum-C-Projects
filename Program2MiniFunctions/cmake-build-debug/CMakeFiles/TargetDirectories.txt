@@ -1,0 +1,3 @@
+C:/Users/Sania Khaja/ClionProjects/CS211/Program2/cmake-build-debug/CMakeFiles/Program2.dir
+C:/Users/Sania Khaja/ClionProjects/CS211/Program2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sania Khaja/ClionProjects/CS211/Program2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

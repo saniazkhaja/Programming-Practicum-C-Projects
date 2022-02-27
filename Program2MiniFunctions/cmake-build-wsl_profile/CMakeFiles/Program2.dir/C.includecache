@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program2/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+time.h
+-
+prog2.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program2/prog2.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program2/prog2.h
+
