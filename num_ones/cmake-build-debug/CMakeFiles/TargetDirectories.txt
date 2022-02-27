@@ -1,0 +1,3 @@
+C:/Users/Sania Khaja/Clion Projects/CS 211/Program1/num_ones/cmake-build-debug/CMakeFiles/num_ones.dir
+C:/Users/Sania Khaja/Clion Projects/CS 211/Program1/num_ones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sania Khaja/Clion Projects/CS 211/Program1/num_ones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
