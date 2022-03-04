@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program3/bpgame.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+bpgame.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program3/bpgame.h
+simpleio.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program3/simpleio.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program3/bpgame.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program3/simpleio.h
+float.h
+-
+limits.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
