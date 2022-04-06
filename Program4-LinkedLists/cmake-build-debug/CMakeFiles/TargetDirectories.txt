@@ -1,0 +1,5 @@
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/cmake-build-debug/CMakeFiles/Program4_LinkedLists2.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/cmake-build-debug/CMakeFiles/Program4_LinkedLists1.dir
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/cmake-build-debug/CMakeFiles/Program4_LinkedLists.dir

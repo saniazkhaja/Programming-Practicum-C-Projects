@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/list.h
+
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/llist.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/list.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+list.h
+/mnt/c/Users/Sania Khaja/ClionProjects/CS211/Program4-LinkedLists/list.h
+time.h
+-
+
